@@ -1,0 +1,10 @@
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Webservices2\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Webservices2\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Webservices2\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Webservices2\ServiceHost\bin\Debug\KNN.dll
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Webservices2\ServiceHost\bin\Debug\KNN.pdb
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Webservices2\ServiceHost\obj\Debug\Host.csprojAssemblyReference.cache
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Webservices2\ServiceHost\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Webservices2\ServiceHost\obj\Debug\Host.csproj.CopyComplete
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Webservices2\ServiceHost\obj\Debug\ServiceHost.exe
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Webservices2\ServiceHost\obj\Debug\ServiceHost.pdb
